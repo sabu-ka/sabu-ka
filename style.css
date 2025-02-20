@@ -1,0 +1,23 @@
+html{
+    /* background-color: #ee1f1f; */
+}
+
+h1{
+    color: #1d0681;
+}
+
+h2{
+    background-color: #bde64f;
+    text-align: center;
+}
+
+h3{
+    color: #e64f4f;
+    text-align: right;
+}
+
+h6{
+    color: #4f4fe6;
+    text-align: left;
+    font-size: 100px;
+}   
