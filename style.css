@@ -1,23 +1,21 @@
-html{
-    /* background-color: #ee1f1f; */
+.header{
+    background-color: #9dadda;
+    height: 90px;
+}
+.main{
+    color: #000000;
+    height: 100px;
+}
+.footer{
+    background-color: #ffffff;
+    height: 100px;
 }
 
-h1{
-    color: #1d0681;
+.menu a{
+    text-decoration: none;
 }
 
-h2{
-    background-color: #bde64f;
-    text-align: center;
-}
+.menu a:hover {
 
-h3{
-    color: #e64f4f;
-    text-align: right;
+    color: red;
 }
-
-h6{
-    color: #4f4fe6;
-    text-align: left;
-    font-size: 100px;
-}   
